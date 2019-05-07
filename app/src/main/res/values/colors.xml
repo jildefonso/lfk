@@ -3,4 +3,7 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+
+    <color name="background">#B7DBF3</color>
+    <color name="scenario_dot">#C0B7E6</color>
 </resources>
